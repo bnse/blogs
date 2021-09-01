@@ -1,0 +1,25 @@
+Karabiner-Elements Usage
+12:18 01 Sep 2021
+Tags: karabiner, usage
+
+bantana
+
+* Agenda
+
+- Install
+- basic config
+- Usage
+
+* Install
+
+    brew install karabiner-elements 
+
+* basic config
+
+    karabiner-elements preferences -> advanced -> "select which one will be enabled, the default builtn-keyboard will be disable."
+
+* Usage
+
+    if you remap the default keyboard, remap it on the 'system preferences'.
+
+    'System Preferences' -> keyboard -> keyboard -> Modifier keys -> 'karabiner driverKit VirtualHIDKeyboard'
